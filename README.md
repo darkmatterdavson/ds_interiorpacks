@@ -9,6 +9,10 @@ Read readme for complete functionality. This solution has many advantages. You c
 1. Download MLO interior
 2. To the folder stream make directory InteriorName (for example: Example)
 3. Sort files by file extension to a given folder according to the recommended hierarchy.
-  
-  ![hierarchy](https://user-images.githubusercontent.com/40635601/81935638-3d84ed00-95f1-11ea-9144-76802a0aedab.png)
+![hierarchy](https://user-images.githubusercontent.com/40635601/81935887-9ce2fd00-95f1-11ea-85ff-690f46b32fd3.png)
+
+# Optional by interior:
+A. If MLO interior have timecycle.xml and client.lua -> rename only client.lua for each interior and add subname -> for example hospital.client.lua
+B. When MLO interior does not contain files as timecycle or client.lua ignore it.
+
 
