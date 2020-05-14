@@ -7,10 +7,14 @@ Read readme for complete functionality. This solution has many advantages. You c
 
 # How to add MLO interior to package:
 1. Download MLO interior
-2. To the folder stream make directory InteriorName (for example: Example)-
-   Folder hierarchy:
+2. To the folder stream make directory InteriorName (for example: Example)
+3. Sort files by file extension to a given folder according to the recommended hierarchy.
+  
      ExampleMLO
      ├───ybn
      ├───ydr
      ├───ymap
      └───ytyp
+## heading
+
+###heading
