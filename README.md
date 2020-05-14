@@ -12,7 +12,7 @@ Read readme for complete functionality. This solution has many advantages. You c
 ![hierarchy](https://user-images.githubusercontent.com/40635601/81935887-9ce2fd00-95f1-11ea-85ff-690f46b32fd3.png)
 
 # Optional by interior:
-A. If MLO interior have timecycle.xml and client.lua -> rename only client.lua for each interior and add subname -> for example hospital.client.lua
-B. When MLO interior does not contain files as timecycle or client.lua ignore it.
+1. If MLO interior have timecycle.xml and client.lua -> rename only client.lua for each interior and add subname -> for example hospital.client.lua
+2. When MLO interior does not contain files as timecycle or client.lua ignore it.
 
 
