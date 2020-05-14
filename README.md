@@ -13,6 +13,6 @@ Read readme for complete functionality. This solution has many advantages. You c
 
 # Optional by interior:
 1. If MLO interior have timecycle.xml and client.lua -> rename only client.lua for each interior and add subname -> for example hospital.client.lua
-2. When MLO interior does not contain files as timecycle or client.lua ignore it.
+2. When MLO interior does not contain files as timecycle.xml or client.lua ignore it.
 
 
