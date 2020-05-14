@@ -10,11 +10,5 @@ Read readme for complete functionality. This solution has many advantages. You c
 2. To the folder stream make directory InteriorName (for example: Example)
 3. Sort files by file extension to a given folder according to the recommended hierarchy.
   
-     ExampleMLO
-     ├───ybn
-     ├───ydr
-     ├───ymap
-     └───ytyp
-## heading
+  ![hierarchy](https://user-images.githubusercontent.com/40635601/81935638-3d84ed00-95f1-11ea-9144-76802a0aedab.png)
 
-###heading
